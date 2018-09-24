@@ -4,7 +4,7 @@ Create a random list of n integers to assist with creating student groups.
 
 ## Demo
 
-Try it at http://denisecase.github.io/project/groupmaker/groupmaker.html
+Try it at https://manogna1.github.io/Demo/groupmaker.html
 
 ## Installation
 
